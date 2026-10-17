@@ -1,0 +1,44 @@
+# Default deny: only the reviewed files below are eligible for publication.
+# New notes and attachments require review before adding an exact path here
+# and to the LOCAL allowlist in .git/journey-allowed-paths.json.
+*
+!/.gitignore
+!/README.md
+!/SYNC-TEST.md
+!/takaki learns/
+!/takaki learns/ACID for my ExpenseTracker.md
+!/takaki learns/Atomicity from scratch.md
+!/takaki learns/BASIC CALENDER LOGIC.md
+!/takaki learns/CURSOR PAGINATION.md
+!/takaki learns/Cookies.md
+!/takaki learns/How Memory works in linux.md
+!/takaki learns/How React works.md
+!/takaki learns/How Tanstack Query works.md
+!/takaki learns/Inside Promise.md
+!/takaki learns/NETWORKING 101.md
+
+# Defense in depth; all other files are already ignored by default.
+.obsidian/
+.trash/
+.sync-local/
+.env
+.env.*
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*
+secrets*
+node_modules/
+__pycache__/
+.cache/
+*.log
+*.tmp
+*.swp
+*.bak
+*.sqlite*
+.DS_Store
+Thumbs.db
