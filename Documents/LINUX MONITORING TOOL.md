@@ -1,29 +1,28 @@
 ## 1: check the spec first
 - **hostnamectl**
 ```
-Static hostname: takakihashimoto-IdeaPad-Slim-3-14ABR8  
+Static hostname: ---
       Icon name: computer-laptop  
         Chassis: laptop -  
-     Machine ID: 54f6275e237f4c1ab949e78fc5f3768f  
-        Boot ID: d8ac741dd2784fffaccc0e3e14c27e3f  
-Operating System: Ubuntu 24.04.4 LTS                      
-         Kernel: Linux 7.0.0-34-generic  
-   Architecture: x86-64  
+     Machine ID: ----
+        Boot ID: ----
+Operating System: ---
+         Kernel: ----
+   Architecture: ----
 Hardware Vendor: Lenovo  
- Hardware Model: IdeaPad Slim 3 14ABR8  
-Firmware Version: KYCN31WW  
+ Hardware Model: ----
+Firmware Version: ---
   Firmware Date: Mon 2024-03-18  
    Firmware Age: 2y 6month 1w 2d
 ```
 
 - **uname -a** : You can know information about system like kernel version etc
 ```
-Linux takakihashimoto-IdeaPad-Slim-3-14ABR8 7.0.0-34-generic #34~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep  4 15:38:29  
-UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+-----
 ```
 - **uname -r** : kernel release
 ```
-7.0.0-34-generic
+-----
 ```
 
 - /proc is a pseudo-filesystem: 
