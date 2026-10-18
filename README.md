@@ -27,6 +27,19 @@ Start with any topic below; shorter notes sit alongside longer explorations.
 - **[Cookies](takaki%20learns/Cookies.md)** — A brief note on browser and server responsibilities.
 - **[Calendar logic](takaki%20learns/BASIC%20CALENDER%20LOGIC.md)** — Working notes on building a calendar grid.
 
+
+## More study notes
+
+- **[Row-level security for secret items](takaki%20learns/RLS%20Secret%20Item%20Security.md)** — Notes on keeping privileged Plaid item access behind a server-side authorization boundary.
+- **[Database schema design](takaki%20learns/How%20to%20design%20DB%20schema.md)** — A reference link for schema-design principles.
+
+## Related documents
+
+- **[Budget fetching with URL query parameters](Documents/2026-09-08%20%28Tue%29.md)** — Notes on selecting a budget month in the BankOS project.
+- **[Exploring a hacking lab](Documents/EXPLORING%20HACKING%20LAB.md)** — A short lab outline.
+- **[Linux monitoring tool](Documents/LINUX%20MONITORING%20TOOL.md)** — Linux system and network observations, including the machine-specific sample output preserved from the original note.
+- **[Reverse Engineer Anything](Documents/REA%20-%20Reverse%20Engineer%20Anything.md)** — A learning note on using analysis tools to investigate software behavior.
+
 ## Reading and contributing to the journey
 
 Browse the Markdown files directly on GitHub, or open a local copy as an Obsidian

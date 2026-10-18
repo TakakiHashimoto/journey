@@ -16,6 +16,23 @@
 !/takaki learns/How Tanstack Query works.md
 !/takaki learns/Inside Promise.md
 !/takaki learns/NETWORKING 101.md
+## Additional user-approved publication paths
+!/Documents/
+!/Documents/2026-09-08 (Tue).md
+!/Documents/EXPLORING HACKING LAB.md
+!/Documents/LINUX MONITORING TOOL.md
+!/Documents/REA - Reverse Engineer Anything.md
+!/takaki learns/AI INTEGRATION.md
+!/takaki learns/File Handling.md
+!/takaki learns/HOW GIT WORKS UNDER THE HOOD.md
+!/takaki learns/How Next works under the hood.md
+!/takaki learns/How to cache data without TanstackQuery with Closure.md
+!/takaki learns/How to design DB schema.md
+!/takaki learns/How to type properly.md
+!/takaki learns/Inside fetch function.md
+!/takaki learns/PAGE BASE PAGINATION.md
+!/takaki learns/RLS Secret Item Security.md
+!/takaki learns/WEB SOCKET.md
 
 # Defense in depth; all other files are already ignored by default.
 .obsidian/
